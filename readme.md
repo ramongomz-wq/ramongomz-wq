@@ -41,7 +41,7 @@ Estratega de contenidos, curioso tecnológico e integrador de datos e Inteligenc
 * **Máster Universitario en Enseñanza del Español como Lengua Extranjera (ELE)** — Universidad de Málaga.
 * **Certificado de Aptitud Pedagógica (CAP)** — Universidad Complutense de Madrid.
 * **Especialización en IA en el Audiovisual** — RTVE Instituto (150h / 6 ECTS).
-* Data Analyst Somos F5 (Estudiando)
+* **Data Analyst Somos F5 (Estudiando)
 
 ---
 
