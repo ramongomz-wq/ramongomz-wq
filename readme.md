@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ramón Gómez Sánchez 👋
+# ¡Hola! Soy Ramón Gómez Sánchez (Ray) 👋
 
 > *"I don’t know what I want, but I know how to get it"* — Sex Pistols
 
@@ -11,7 +11,7 @@ Estratega de contenidos, curioso tecnológico e integrador de datos e Inteligenc
 * 📍 **Ubicación:** Málaga, España. Trayectoria vital y profesional entre Madrid, Marbella, Barcelona, Málaga y Guangzhou/Dongguan (China).
 * 🖥️ **Geek de nacimiento:** Mi pasión por la tecnología comenzó en 1988 frente a la pantalla de un Amstrad CPC 128.
 * 🧠 **Curiosidad & Análisis:** Perfil inquieto enfocado en la curaduría intelectual, la analítica de datos y la resolución creativa de problemas.
-* 🎲 **Pensamiento estratégico:** Más de 35 años jugando al rol me han enseñado a dominar la narrativa, resolver problemas en tiempo real y adaptar estrategias bajo presión.
+* 🎲 **Pensamiento estratégico:** Más de 35 años jugando al rol me han enseñado a dominar la narrativa, resolver problemas en tiempo real y adaptar estrategias bajo presión.Esto siempre lo he aplicado a la gran empresa.
 * 🏆 **Reconocimiento internacional:** 2º Premio Nacional en China (*Micro-course Contest of Foreign Languages in China*) por la creación y producción del proyecto audiovisual y educativo *Handshake*.
 
 ---
@@ -58,3 +58,6 @@ Estratega de contenidos, curioso tecnológico e integrador de datos e Inteligenc
 ### 📫 Contacto
 
 * 💼 **LinkedIn:** [linkedin.com/in/ramón-gómez-sánchez](https://www.linkedin.com/in/ramón-gómez-sánchez)
+---
+### English Version is coming soon, I have a lot to study, dude. Spanish is cool, I recommend you to learn it. Practice it with my profile in the meantime.
+> *"Give a man a fish and he'll eat once, give him a fishing rod and he'll ask AI how to use it.* 😜
